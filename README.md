@@ -1,6 +1,8 @@
 # Amazon Order Fulfillment Automation
+**Data Scientist Internship Project | Wakefield's Inc. | Summer 2026**
 
 > An end-to-end retail data automation workflow that connects Amazon unshipped orders with multi-location inventory data to identify eligible fulfillment locations.
+
 > <img width="2171" height="724" alt="image" src="https://github.com/user-attachments/assets/521bf0e1-c7fe-41b9-a6a9-b9fe05780ec0" />
 
 
