@@ -1,6 +1,8 @@
 # Amazon Order Fulfillment Automation
 
 > An end-to-end retail data automation workflow that connects Amazon unshipped orders with multi-location inventory data to identify eligible fulfillment locations.
+> <img width="2171" height="724" alt="image" src="https://github.com/user-attachments/assets/521bf0e1-c7fe-41b9-a6a9-b9fe05780ec0" />
+
 
 **Python · Pandas · Oracle SQL · JavaScript · Excel**
 
@@ -231,6 +233,9 @@ The final sheet allowed the Internet Sales Team to see potential fulfillment loc
 | **Final Matching Rate** | **86%** |
 | **Estimated Time Saved** | **10+ hrs/week** |
 | **Process Automation** | **~85%** |
+
+<img width="1280" height="720" alt="Business Impact Screenshot wkfd" src="https://github.com/user-attachments/assets/14779f60-a84a-484a-b816-570bb6c2aaad" />
+
 
 ### 86% Matching Rate
 
