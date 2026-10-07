@@ -1,0 +1,16 @@
+order_id,buyer_name,product_name,asin,sku,quantity,item_subtotal,ship_by_date,deliver_by_date,comment
+SYN-10001,Emma Carter,Classic Cotton T-Shirt,SYNB000001,TSHIRT-BLK-M,1,24.99,2026-08-24,2026-08-27,
+SYN-10002,Liam Brooks,Slim Fit Denim Jeans,SYNB000002,JEANS-BLU-32,1,59.99,2026-08-24,2026-08-28,
+SYN-10003,Olivia Turner,Running Sneakers,SYNB000003,SHOE-WHT-08,1,79.99,2026-08-25,2026-08-29,
+SYN-10004,Noah Bennett,Classic Cotton T-Shirt,SYNB000001,TSHIRT-BLK-L,2,49.98,2026-08-25,2026-08-29,
+SYN-10005,Ava Mitchell,Lightweight Hoodie,SYNB000004,HOODIE-GRY-M,1,54.99,2026-08-26,2026-08-30,
+SYN-10006,Ethan Parker,Leather Casual Belt,SYNB000005,BELT-BRN-34,1,34.99,2026-08-26,2026-08-30,
+SYN-10007,Sophia Collins,Slim Fit Denim Jeans,SYNB000002,JEANS-BLU-30,1,59.99,2026-08-27,2026-08-31,
+SYN-10008,Mason Reed,Running Sneakers,SYNB000003,SHOE-WHT-10,2,159.98,2026-08-27,2026-08-31,
+SYN-10009,Isabella Hayes,Lightweight Hoodie,SYNB000004,HOODIE-GRY-S,1,54.99,2026-08-28,2026-09-01,
+SYN-10010,Lucas Morgan,Classic Cotton T-Shirt,SYNB000001,TSHIRT-WHT-M,1,24.99,2026-08-28,2026-09-01,Buyer requested cancellation
+SYN-10011,Mia Foster,Leather Casual Belt,SYNB000005,BELT-BRN-32,1,34.99,2026-08-29,2026-09-02,
+SYN-10012,James Cooper,Classic Cotton T-Shirt,SYNB000001,TSHIRT-BLK-M,3,74.97,2026-08-29,2026-09-02,
+SYN-10013,Charlotte Ward,Running Sneakers,SYNB000003,SHOE-WHT-08,1,79.99,2026-08-30,2026-09-03,
+SYN-10014,Benjamin Ross,Slim Fit Denim Jeans,SYNB000002,JEANS-BLU-32,2,119.98,2026-08-30,2026-09-03,
+SYN-10015,Amelia Price,Lightweight Hoodie,SYNB000004,HOODIE-GRY-M,1,54.99,2026-08-31,2026-09-04,
