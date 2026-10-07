@@ -18,16 +18,20 @@ This project demonstrates how that workflow can be automated using Python and SQ
 
 ## Workflow
 
-E-commerce Orders  
-↓  
-Order & SKU Processing  
-↓  
-Inventory Lookup  
-↓  
-Quantity Validation  
-↓  
-Store Recommendation  
-↓  
+Amazon Seller Central
+        ↓
+JavaScript Data Extraction
+        ↓
+Unshipped Orders CSV
+        ↓
+Python SKU Processing
+        ↓
+Oracle Inventory Lookup
+        ↓
+Quantity Validation
+        ↓
+Store Recommendation
+        ↓
 Fulfillment Output
 
 ## Technologies
