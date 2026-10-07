@@ -1,4 +1,4 @@
-# Retail Order Fulfillment Automation
+# Amazon Order Fulfillment Automation
 
 An end-to-end data automation project inspired by a retail order fulfillment workflow developed during my Data Scientist Internship.
 
