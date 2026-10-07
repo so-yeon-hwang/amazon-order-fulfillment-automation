@@ -228,11 +228,6 @@ The final sheet allowed the Internet Sales Team to see potential fulfillment loc
 
 ## Results & Business Impact
 
-| Metric | Result |
-|---|---:|
-| **Final Matching Rate** | **86%** |
-| **Estimated Time Saved** | **10+ hrs/week** |
-| **Process Automation** | **~85%** |
 
 <img width="1280" height="720" alt="Business Impact Screenshot wkfd" src="https://github.com/user-attachments/assets/14779f60-a84a-484a-b816-570bb6c2aaad" />
 
